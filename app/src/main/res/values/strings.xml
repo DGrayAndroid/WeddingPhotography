@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Wedding Photography</string>
     <string name="imageDesc">Enlarged Wedding Photo</string>
+    <string name="email">Contact us at anthology@wed.com</string>
 </resources>
